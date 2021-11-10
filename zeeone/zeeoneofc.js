@@ -7,9 +7,9 @@ ${petik}│◦➛ WIB : ${timuu}
                           
 ┌❏ *TODAY*
 ${petik}│◦➛${ucapannya2}
-│◦➛Jam : ${timuu}
-│◦➛Hari : ${thisDay}
-└❏ Tanggal : ${ini_tanggal}${petik}
+│◦➛O'clock : ${timuu}
+│◦➛Day : ${thisDay}
+└❏ Date : ${ini_tanggal}${petik}
 
 ┌❏ *DEVICE*
 ${petik}│◦➛Whatsapp : ${wa_version}
@@ -33,7 +33,9 @@ ${petik}│◦➛ Owner : ${ownername}
 │◦➛Version : 3.5.2${petik}
 ${petik}│◦➛Speed :${petik} ${latensiii} 
 ${petik}└❏ ${tekss}${petik}
-
+    
+→owner: wa.me/+919556416715
+India🇮🇳♥️Indonesia🇮🇩^_^
 
 ┌❑ *LIST MENU* ❑
 │
@@ -60,7 +62,7 @@ ${petik}├❒ Source
 ├❒ Group_support
 └❒ Ownerbot${petik}
 
-❒ _Creator BotWea © 2K21_ ❒
+❒ _Creator "owner" © 2K21_ ❒
 `
 }
 const convert = (prefix) => {
